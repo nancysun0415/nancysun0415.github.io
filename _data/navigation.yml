@@ -23,6 +23,9 @@ main:
   - title: "CV"
     #url: /cv/
     url: /files/Resume_24Fall.pdf
+  
+  - title: "Random"
+    url: /random/
     
   #- title: "Guide"
   #  url: /markdown/
