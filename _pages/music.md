@@ -11,38 +11,48 @@ As a music minor and a flute *(and ocarina, tin whistle, hand ocarina…)* playe
 
 *\*Friend's comment: all sound like some RPG background music.* 
 
- - **Gamer's Unite:** a video game inspired composition. Final project for Ensemble class as a group of 3.
+---
 
-    <audio controls>
-        <source src="/musics/gamers_unite.mp3" type="audio/mpeg">
-    </audio>
+**Gamer's Unite:** a video game inspired composition. Final project for Ensemble class as a group of 3.
 
-    [Click Here](https://www.youtube.com/watch?v=WDKm5-hKiqQ) for music video.
+<audio controls>
+    <source src="/musics/gamers_unite.mp3" type="audio/mpeg">
+</audio>
 
- - **Whispers in the dark**
+[Click Here](https://www.youtube.com/watch?v=WDKm5-hKiqQ) for music video.
 
-    <audio controls>
-        <source src="/musics/whispers_in_the_dark.mp3" type="audio/mpeg">
-    </audio>
+---
 
+**Whispers in the dark**
 
- - **Winter Memories**
+<audio controls>
+    <source src="/musics/whispers_in_the_dark.mp3" type="audio/mpeg">
+</audio>
 
-    <audio controls>
-        <source src="/musics/winter_memories.mp3" type="audio/mpeg">
-    </audio>
+---
 
+**Winter Memories**
 
- - **Mist**
+<audio controls>
+    <source src="/musics/winter_memories.mp3" type="audio/mpeg">
+</audio>
+
+---
+
+**Mist**
  
-    <audio controls>
-        <source src="/musics/mist.mp3" type="audio/mpeg">
-    </audio>
+<audio controls>
+    <source src="/musics/mist.mp3" type="audio/mpeg">
+</audio>
 
+---
 
- - **Audio mixing practice** *A Sailor Once More* by Glen McPhee.  
-    [Click Here](https://cambridge-mt.com/ms/mtk/#GlenMcPhee) and check *Full Multitrack* for original unmixed file.
-    
-    <audio controls>
-        <source src="/musics/a_sailor_once_more.wav" type="audio/mpeg">
-    </audio>
+**Audio mixing practice** *A Sailor Once More* by Glen McPhee.  
+
+[Click Here](https://cambridge-mt.com/ms/mtk/#GlenMcPhee) and check *Full Multitrack* for original unmixed file.
+
+<audio controls>
+    <source src="/musics/a_sailor_once_more.wav" type="audio/mpeg">
+</audio>
+
+---
