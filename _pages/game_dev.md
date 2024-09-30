@@ -23,3 +23,6 @@ Here are things I've worked on.
     <img src="/images/LD55_1.png" width="400" height="200">
 
  - **Kitchen Chaos:** An Overcooked-type practice project, assets borrowed from this [YouTube tutorial](https://www.youtube.com/watch?v=AmGSEH7QcDg).
+
+    <img src="/images/KC_1.png" width="400" height="200">
+    <img src="/images/KC_2.png" width="400" height="200">
