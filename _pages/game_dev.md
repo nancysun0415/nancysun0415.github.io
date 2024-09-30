@@ -16,7 +16,10 @@ Here are things I've worked on.
     <img src="/images/LD54_cover.png" width="400" height="200">
     <img src="/images/LD54_1.png" width="400" height="200">
 
- - ***[In Progress]*****Summoned:** made for *Ludum Dare 55 Compo*, but progress was interrupted by school commitments. More to come soon. 
+ - ***[In Progress]*****Summoned:** made for *Ludum Dare 55 Compo*, but progress was interrupted by school commitments. More to come soon.
+    [Click here](https://ldjam.com/events/ludum-dare/55/summoned) for original LD55 page.
 
+    <img src="/images/LD55_cover.png" width="400" height="200">
+    <img src="/images/LD55_1.png" width="400" height="200">
 
  - **Kitchen Chaos:** An Overcooked-type practice project, assets borrowed from this [YouTube tutorial](https://www.youtube.com/watch?v=AmGSEH7QcDg).
