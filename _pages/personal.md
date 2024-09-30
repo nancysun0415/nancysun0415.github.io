@@ -9,14 +9,12 @@ author_profile: true
 
 **Rock Climbing, mostly bouldering**
 
-Very stereotypical for a CS person, but TRUE. I started in my Freshman Spring and have been obsessed ever since. 
-
+Very stereotypical for a CS person, but TRUE. I started in my Freshman Spring and have been obsessed ever since.<br>
 I also worked at the school rock wall @ Palladium 2022-23. Most of the time I was belaying people and explaining the rules, but we also got to strip the wall, wash the holds, and set new routes between semesters. Check out a route I set below.
 
 **Orienteering**
 
-Running is boring, but navigating and treasure hunting is something else.
-
+Running is boring, but navigating and treasure hunting is something else.<br>
 I used to be on my high school orienteering team, but I haven’t done much since college. It’s tough to join competitions or events in the US without a car.
 
 **Traveling (along)**
