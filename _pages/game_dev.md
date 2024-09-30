@@ -12,7 +12,9 @@ Here are things I've worked on.
 
 **Shadow’s Edge:** A 2D platform game. Also my very first game jam entry for *Ludum Dare 54 Compo*.<br>
 [Click here](https://ldjam.com/events/ludum-dare/54/shadows-edge) for original LD54 page.
-![LD54 Cover](/images/LD54_cover.png) ![LD54 1](/images/LD54_1.png)
+
+<img src="/images/LD54_cover.png" width="200" height="100">
+<img src="/images/LD54_1.png" width="200" height="100">
 
 ***[In Progress]*****Summoned:** made for *Ludum Dare 55 Compo*, but progress was interrupted by school commitments. More to come soon. 
 
