@@ -28,7 +28,7 @@ main:
     url: /projects/
 
   - title: "Game Dev"
-    url: /game-dev/
+    url: /game_dev/
 
   - title: "Music"
     url: /music/

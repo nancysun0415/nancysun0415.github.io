@@ -11,11 +11,11 @@ As a music minor and a flute *(and ocarina, tin whistle, hand ocarina…)* playe
 
 *\*Friend's comment: all sound like some RPG background music.* 
 
-**Gamer's Unite** final project for Ensemble class as a group of 3.  
+**Gamer's Unite:** a video game inspired composition. Final project for Ensemble class as a group of 3.  
 <audio controls>
     <source src="/musics/gamers_unite.mp3" type="audio/mpeg">
 </audio>
-
+[Click Here](https://www.youtube.com/watch?v=WDKm5-hKiqQ) for music video.
 
 **Whispers in the dark**  
 <audio controls>
