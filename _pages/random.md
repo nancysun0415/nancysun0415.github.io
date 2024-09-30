@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Random Stuff About Me"
-permalink: /random/
+permalink: /personal/
 author_profile: true
 ---
 

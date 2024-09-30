@@ -20,15 +20,23 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
+  - title: "Resume"
     #url: /cv/
     url: /files/Resume_24Fall.pdf
-  
-  - title: "Random"
-    url: /random/
 
   - title: "Projects"
     url: /projects/
+
+  - title: "Game Dev"
+    url: /game-dev/
+
+  - title: "Music"
+    url: /music/
+  
+  - title: "Personal"
+    url: /personal/
+
+
     
   #- title: "Guide"
   #  url: /markdown/
