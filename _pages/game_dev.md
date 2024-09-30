@@ -20,8 +20,8 @@ Here are things I've worked on.
 
 ---
 
-***[In Progress]*****Summoned:** made for *Ludum Dare 55 Compo*, but progress was interrupted by school commitments. More to come soon.
-[Click here](https://ldjam.com/events/ludum-dare/55/summoned) for original LD55 page.
+***[In Progress]*****Summoned:** made for *Ludum Dare 55 Compo*, but progress was interrupted by school commitments. <br>
+More to come soon. [Click here](https://ldjam.com/events/ludum-dare/55/summoned) for original LD55 page.
 
 <img src="/images/LD55_cover.png" width="400" height="200">
 <img src="/images/LD55_1.png" width="400" height="200">

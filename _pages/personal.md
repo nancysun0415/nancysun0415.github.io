@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+### Gaming
+
+
+---
+
 ### Rock Climbing, mostly bouldering
 Very stereotypical for a CS person, but TRUE. I started in my Freshman Spring and have been obsessed ever since.<br>
 I also worked at the school rock wall @ Palladium 2022-23. Most of the time I was belaying people and explaining the rules, but we also got to strip the wall, wash the holds, and set new routes between semesters. Check out a route I set below.
