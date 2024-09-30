@@ -15,7 +15,7 @@ New York University '25 Fall
 Bachelor of Arts, Computer Science and Mathematics
 Minor in Music
 
-Course Attended
+**Course Attended**
 Computer Science: Data Structure, Algorithm, Computer System Organization, Operating System, Agile Software Development, Intro to Maching Learning, Object Oriented Programming, Computer Graphics, Intro to Cryptography, Security
 Mathematics: Discrete Math, Linear Algebra, Honors Analysis, Abstract Algebra, Theory of Probability, Statistics, Ordinary Differential Equations, Numerical Analysis
 
