@@ -38,6 +38,11 @@ Projects I've been working on.
  - Computed dataset with lazy loading, used MSE Loss for training, and optimized ResNet-50 as the base model
  - Achieved 99.5% localization accuracy and ranked top 15% with performance on Kaggle competition.
 
+---
+
+### Chord Progression Generator
+ - Developed a chord progression generator using the Markov Matrix approach based on JSB Chorales Dataset. 
+ - Outputs both music score and mp3 audio of generated progression based on user input scale.
 
 
 
