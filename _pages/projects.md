@@ -10,15 +10,19 @@ author_profile: true
 Projects I've been working on.
 
 ***[In Progress]*****Digitalization and Gamification of Doctor Approved Cognitive Exercises for Dementia Patients**<br>
-*[DURF](https://cas.nyu.edu/undergraduate-research/deans-undergraduate-research-fund/DURFG.html) Research Grant Recipient*
+<span style="color:Silver">
+    *[DURF](https://cas.nyu.edu/undergraduate-research/deans-undergraduate-research-fund/DURFG.html) Research Grant Recipient*
+</span>
  - Designed and implemented a set of visual and sound-based games in Unity, including word recognition, memory tests, drawing tasks, and pattern recognition, based on doctor-approved in-person cognitive assessments.
  - *[In Progress]* Seeking to implement data storage for user performance metrics and ensure compatibility across different devices.
 
-**Adversarially Robust Property-Preserving Hashing For Jaccard Distance**
-*Supervised Individual Research*
+**Adversarially Robust Property-Preserving Hashing For Jaccard Distance**<br>
+<span style="color:Silver">
+    *Supervised Individual Research*
+</span>
  - Adapted and extended the construction of Gap-Hamming Distance from Robust Property-Preserving Hash Functions to preserve Jaccard Distance for sparse datasets.
 
-[**What's For Dinner?**](https://github.com/nancysun0415/final-project-what-s-for-dinner) Discover and Share Recipes
+[**What's For Dinner?**](https://github.com/nancysun0415/final-project-what-s-for-dinner) *Discover and Share Recipes*
  - Developed a web app with React and Express, providing recipe suggestions based on user’s available ingredients and dietary preferences.
  - Allows users to search, share, comment on, and rate recipes.
  - Integrated TheMealDB and Spoonacular APIs and deployed on Digital Ocean.

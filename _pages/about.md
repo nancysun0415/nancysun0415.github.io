@@ -13,7 +13,7 @@ Iâ€™m still exploring different fields within computer science, but right now Iâ
 
 # Education
 
-<span style="color:DarkViolet">New York University</span> '25 Fall<br>
+<span style="color:DarkViolet">New York University</span> '24 Fall<br>
 *Bachelor of Arts*, Computer Science and Mathematics<br>
 *Minor*, Music<br>
 
