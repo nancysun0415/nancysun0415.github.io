@@ -8,7 +8,12 @@ author_profile: true
 {% include base_path %}
 
 ### Gaming
-
+ - All-Time Favorite: Outer Wilds ***SUCH A SPACE ROMANCE***
+ - Favorite Horror JRPG: [Cell Of Empireo](https://lamondocommedia8.wixsite.com/cos-coe) *Japanese Only*
+ - Favorite Zelda: Ocarina of Time 3D
+ - *[Current]* Best of 2024: Animal Well
+ - Latest Platinum: Assasin's Creed 2
+ - Completely Waste of Time: FF7Re
 
 ---
 
