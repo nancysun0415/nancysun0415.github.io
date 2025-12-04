@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "bio_photo1.jpg"
   name             : "Yiyi (Nancy) Sun"
-  pronouns         : # example: "she/her"  
-  bio              : "Fast learner with great passion for cryptography and game dev"
-  location         : "New York | Shenzhen"
-  employer         : "New York University"
+  pronouns         : "she/her"  
+  bio              : "Fast learner with great passion for cryptography"
+  location         : "Ann Arbor / Shenzhen"
+  employer         : "University of Michigan"
   uri              : # URL
-  email            : "ys4335@nyu.edu" 
+  email            : "sunyiyi@umich.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
