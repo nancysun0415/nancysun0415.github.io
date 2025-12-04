@@ -8,12 +8,13 @@ redirect_from:
 ---
 
 I'm **Yiyi Sun**, you can also call me **Nancy**.<br>
-I'm a first-year PhD student at **UMich**.<br>
-I’m still exploring different fields within computer science, but right now I’m particularly interested in **Cryptography** .
+I'm a first-year PhD student at **UMich** and right now I’m particularly interested in **Cryptography** .<br>
 
 ---
 
 # Education
+<span style="color:Blue">University of Michigan</span> Current<br>
+Ph.D. Student*, CSE<br>
 
 <span style="color:DarkViolet">New York University</span> '24 Fall<br>
 *Bachelor of Arts*, Computer Science and Mathematics<br>

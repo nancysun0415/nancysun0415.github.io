@@ -10,16 +10,15 @@ author_profile: true
 ### Gaming
  - All-Time Favorite: Outer Wilds ***SUCH A SPACE ROMANCE***
  - Favorite JRPG: [Cell Of Empireo](https://lamondocommedia8.wixsite.com/cos-coe) *Japanese Only*
- - Favorite Zelda: Ocarina of Time 3D
- - *[Current]* Best of 2025: Animal Well
- - Latest Platinum: Assasin's Creed 2
+ - *[Current]* Best of 2025: Silksong
+ - Latest Platinum: Chants of Sennaar
  - Completely Waste of Time: FF7Re
 
 ---
 
 ### Rock Climbing, mostly bouldering
-Very stereotypical for a CS person, but TRUE. I started in my Freshman Spring and have been obsessed ever since.<br>
-I also worked at the school rock wall @ Palladium 2022-23. Most of the time I was belaying people and explaining the rules, but we also got to strip the wall, wash the holds, and set new routes between semesters. Check out a route I set below.
+Stereotypical for a CS person, but true. I started in my Freshman Spring and have been obsessed ever since.<br>
+I also worked at the NYU rock wall @ Palladium 2022-23. Most of the time I was belaying people and explaining the rules, but we also got to strip the wall, wash the holds, and set new routes between semesters. Check out a route I set below.
 
 ---
 
