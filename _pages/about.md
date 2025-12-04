@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 I'm **Yiyi Sun**, you can also call me **Nancy**.<br>
-I'm a senior studying **Math** and **Computer Science** at **NYU**.<br>
-I’m still exploring different fields within computer science, but right now I’m particularly interested in **Cryptography** Theory and **Game Development**.
+I'm a first-year PhD student at **UMich**.<br>
+I’m still exploring different fields within computer science, but right now I’m particularly interested in **Cryptography** .
 
 ---
 
