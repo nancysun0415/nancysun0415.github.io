@@ -13,8 +13,8 @@ I'm a first-year PhD student at **UMich** and right now I’m particularly inter
 ---
 
 # Education
-<span style="color:Blue">University of Michigan</span> Current<br>
-Ph.D. Student*, CSE<br>
+<span style="color:Blue">University of Michigan</span>  Current<br>
+*Ph.D. Student*, CSE<br>
 
 <span style="color:DarkViolet">New York University</span> '24 Fall<br>
 *Bachelor of Arts*, Computer Science and Mathematics<br>
